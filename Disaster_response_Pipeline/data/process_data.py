@@ -29,14 +29,14 @@ def clean_data(df):
     del df['categories']
     df = pd.concat([df, categories], axis=1)
     df = df.drop_duplicates(keep='first')
-    return df
-    
+    df = df[df['related']!=2]
+    return df   
 
 
 def save_data(df, database_filename):
     '''Saves the cleaned dataframe to a table messages in the database given'''
     engine = create_engine('sqlite:///'+ database_filename)
-    df.to_sql('messages', engine, index=False)  
+    df.to_sql('messages', engine,if_exists='replace', index=False)  
 
 
 def main():
