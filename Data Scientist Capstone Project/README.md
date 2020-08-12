@@ -1,7 +1,7 @@
 ## Data Scientist Capstone Project
 
 **Overview**<br>
-The objective of this project is to classify as an image of the dog into its 133 dog breed categories and if in case if it detects humans, it maps to what dog breed the detected human look like.
+The objective of this project is to classify an image of the dog into its 133 dog breed categories and if in case if it detects humans, it maps to what dog breed the detected human look like.
 
 **Libraries**<br>
 - Keras
