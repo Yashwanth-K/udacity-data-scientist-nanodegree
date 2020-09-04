@@ -3,20 +3,8 @@
 ## Introduction
 * This repo contain the exercises and projects from udacity Deep Learning Nano Degree program .
 
-* this is the link for the certificate: https://confirm.udacity.com/AMQSWSLU
+Link for the certificate: https://confirm.udacity.com/GXKT4ZAR
 
-## Table of Contents
-0. Extra Curricular:
-
-  0.1: Convolutional Neural Network
-
-  0.2: Spark
-
-### Term 1
-
-Link for term 1 [repo](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term1/)
-
-### Term 2
 
 #### Lessons 
 
@@ -38,11 +26,11 @@ Link for term 1 [repo](https://github.com/nesreensada/Data-Scientist-Udacity-Nan
 
 
  **Nanodegree Link:**
-> https://www.udacity.com/course/deep-learning-nanodegree--nd101
+> https://www.udacity.com/course/data-scientist-nanodegree--nd025
 
 ## Deep Learning Nanodegree Certificate
 
-![DLND certificate](https://github.com/Yashwanth-K/udacity-data-scientist-nanodegree/blob/master/dlnd.jpeg)
+![DLND certificate](https://github.com/Yashwanth-K/udacity-data-scientist-nanodegree/blob/master/dsnd.jpg)
 
 ## Licence 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
