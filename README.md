@@ -41,5 +41,12 @@ Link for term 1 [repo](https://github.com/nesreensada/Data-Scientist-Udacity-Nan
 4. [Building a Promotional Strategy for Starbucks Customers](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/Starbucks_Project): Used uplift modeling techniques to identify which groups of customers are most responsive to each type of offer. The data mimic Starbucks customers' behavior on the rewards mobile app. This required data preprocessing, RFM clustering(Kmeans), and xgboost to build the models.
 **tools: python, sklearn, data visualization,numpy, pandas,RFM clustering, uplift modeling, xgboost**
 
+ **Nanodegree Link:**
+> https://www.udacity.com/course/deep-learning-nanodegree--nd101
+
+## Deep Learning Nanodegree Certificate
+
+![DLND certificate](https://user-images.githubusercontent.com/33187812/71542573-ba7c3680-2970-11ea-90d6-3470e56fa34f.png)
+
 ## Licence 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
