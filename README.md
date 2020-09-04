@@ -1,7 +1,7 @@
 # Data-Scientist-Udacity-Nanodegree-
  
 ## Introduction
-* This repo contain the exercises and projects from udacity Deep Learning Nano Degree program .
+* This repo contain the exercises and projects from udacity Data Scientist Nano Degree program .
 
 Link for the certificate: https://confirm.udacity.com/GXKT4ZAR
 
