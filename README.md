@@ -14,7 +14,7 @@ Link for the certificate: https://confirm.udacity.com/GXKT4ZAR
 
 3. Data Engineering: building ETL, NLP, and machine learning pipelines.
 
-4.Experimental Design & Recommendations:design experiments and analyze A/B test results. Explore approaches for building recommendation systems. 
+4. Experimental Design & Recommendations:design experiments and analyze A/B test results. Explore approaches for building recommendation systems. 
 
 #### Projects
 
@@ -22,7 +22,7 @@ Link for the certificate: https://confirm.udacity.com/GXKT4ZAR
 
 2. [Disaster Response Pipelines](https://github.com/Yashwanth-K/udacity-data-scientist-nanodegree/tree/master/Disaster_response_Pipeline): analyze disaster data from Figure Eight to build an NLP model for an API that classifies disaster messages. The first part of this project consisted of creating an ETL pipeline with data stored in SQL database. Then used the NLP model to categorize these events to reach out for a relevant relief agency. Finally, Flask was used to create the API. **tools*: python, NLP, sklearn, numpy, matplotlib, FLASK, ETL.
 
-3. Recommendations with IBM: Built a recommendation engine for IBM Watson platform based on user behavior and social network data, to surface content most likely to be relevant to a user.  This project consisted of building various types of recommendation engines such as rank-based, user-user collaborative filtering, and matrix factorization.
+3. [Recommendations with IBM](https://github.com/Yashwanth-K/udacity-data-scientist-nanodegree/tree/master/Recommendations_with_IBM): Built a recommendation engine for IBM Watson platform based on user behavior and social network data, to surface content most likely to be relevant to a user.  This project consisted of building various types of recommendation engines such as rank-based, user-user collaborative filtering, and matrix factorization.
 
 
  **Nanodegree Link:**
