@@ -20,8 +20,7 @@ Analyze user behavior and social network data on IBM Watson platform to build a 
 
 ### Data:
 
-
-The data is for IBM an online data science community through udacity. 
+The data is from the IBM Watson Studio platform which is made avilable to the students from Udacity.
 
 ### Licensing, Authors, Acknowledgements
 
